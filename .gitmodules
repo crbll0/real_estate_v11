@@ -2,3 +2,8 @@
 	path = crbll0/test
 	url = git@github.com:crbll0/test.git
 	branch = master
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 11.0
